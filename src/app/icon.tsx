@@ -25,7 +25,7 @@ export default async function Icon() {
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src={`${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/me.png`}
+          src="https://pasindu-dev.me/me.png"
           alt="favicon"
           width="32"
           height="32"

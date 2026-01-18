@@ -192,65 +192,6 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Bonk Terminal",
-      href: "https://bonk-terminal.vercel.app",
-      dates: "Jul 2025 - Aug 2025",
-      active: true,
-      description:
-        "A full-stack Solana token exploration platform with terminal-style interface for live trading data, candlestick charts, and AI-powered price predictions. Features real-time token information, market analytics, and seamless clipboard integration using BLYV and Solana Tracker APIs.",
-      technologies: [
-        "React.js",
-        "Javascript",
-        "TailwindCSS",
-        "Node.js",
-        "Express.js",
-        "Solana Web3.js",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://bonk-terminal.vercel.app",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/pasindupiumal03/BONK_Terminal_SOL_Token_Analyzer",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "/bonk-terminal.mp4",
-    },
-    {
-      title: "Fraktom",
-      href: "https://fraktom.vercel.app/",
-      dates: "May 2025 - Jul 2025",
-      active: true,
-      description:
-        "A modern, educational trading simulation platform inspired by pump.fun. Fraktom lets users practice trading without risking real money, climb leaderboards, and learn trading concepts interactively.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "TailwindCSS",
-        "Shadcn UI",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://fraktom.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/pasindupiumal03/Fraktom_Homepage",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "/fraktom.mp4",
-    },
-    {
       title: "FlowKey - Bookmark & Layout Manager",
       href: "https://chromewebstore.google.com/detail/flowkey-bookmark-layout-m/lpgjlhajnhhdbaleigdkeloeeniedpnj",
       dates: "Aug 2025 - Sep 2025",
@@ -311,6 +252,65 @@ export const DATA = {
       image: "",
       video:
         "/fullgrab.mp4",
+    },
+    {
+      title: "Bonk Terminal",
+      href: "https://bonk-terminal.vercel.app",
+      dates: "Jul 2025 - Aug 2025",
+      active: true,
+      description:
+        "A full-stack Solana token exploration platform with terminal-style interface for live trading data, candlestick charts, and AI-powered price predictions. Features real-time token information, market analytics, and seamless clipboard integration using BLYV and Solana Tracker APIs.",
+      technologies: [
+        "React.js",
+        "Javascript",
+        "TailwindCSS",
+        "Node.js",
+        "Express.js",
+        "Solana Web3.js",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://bonk-terminal.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/pasindupiumal03/BONK_Terminal_SOL_Token_Analyzer",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "/bonk-terminal.mp4",
+    },
+    {
+      title: "Fraktom",
+      href: "https://fraktom.vercel.app/",
+      dates: "May 2025 - Jul 2025",
+      active: true,
+      description:
+        "A modern, educational trading simulation platform inspired by pump.fun. Fraktom lets users practice trading without risking real money, climb leaderboards, and learn trading concepts interactively.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Shadcn UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://fraktom.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/pasindupiumal03/Fraktom_Homepage",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/fraktom.mp4",
     },
   ],
   hackathons: [

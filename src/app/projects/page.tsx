@@ -124,7 +124,7 @@ const ADDITIONAL_PROJECTS = [
       },
     ],
     image: "",
-    video: "Alphyre.mp4",
+    video: "Alphyre-2.mp4",
     category: "websites" as TabType,
   },
 

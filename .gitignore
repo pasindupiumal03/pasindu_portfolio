@@ -38,6 +38,3 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .content-collections
-
-# large media files
-public/Alphyre.mp4

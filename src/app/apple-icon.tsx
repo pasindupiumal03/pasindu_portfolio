@@ -30,7 +30,6 @@ export default async function AppleIcon() {
           width="180"
           height="180"
           style={{
-            borderRadius: '50%',
             width: '100%',
             height: '100%',
             objectFit: 'cover',
